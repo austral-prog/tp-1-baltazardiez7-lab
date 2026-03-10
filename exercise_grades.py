@@ -15,4 +15,4 @@ def grades():
     print (promedio)
     print (max (nota1,nota2,nota3))
     print (min (nota1,nota2,nota3))
-    print (10-promedio)9
+    print (10-promedio)
