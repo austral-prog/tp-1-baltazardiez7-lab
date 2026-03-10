@@ -16,3 +16,4 @@ def price():
     propina = subtotal1/100 *10
     print (propina)
     print (subtotal1+propina)
+ 
